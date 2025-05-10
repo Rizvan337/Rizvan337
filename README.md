@@ -28,16 +28,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizvan337&show_icons=true&theme=radical" alt="Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizvan337&theme=radical" alt="Streak" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/riswan-r-s/)

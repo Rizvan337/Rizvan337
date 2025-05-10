@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hey there! 👋 I'm <span style="color:#0e75b6;">Muhammed Rizvan R S</span></h1>
+<h3 align="center">🚀 MERN Stack Developer | 🌐 Web App Builder | 💡 Tech Explorer</h3>
 
-<!--
-**Rizvan337/Rizvan337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rizvan337&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🧠 Diving deep into **JavaScript, Node.js, Express, MongoDB, React**
+- 🎯 Committed to improving every day
+- 💬 Always curious and open to learning something new
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rizvan337&show_icons=true&theme=radical" alt="Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizvan337&theme=radical" alt="Streak" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/riswan-r-s/)
+- 📧 rizvanichu337@gmail.com
+
+---
+
+## 🧠 Quote I Live By
+> _"Your thoughts become things."_ — *The Secret*
+
+---
+
+If you find something interesting here, don't forget to ⭐ a repo or connect with me!

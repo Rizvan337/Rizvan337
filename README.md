@@ -1,10 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm <span style="color:#0e75b6;">Muhammed Rizvan R S</span></h1>
 <h3 align="center">🚀 MERN Stack Developer | 🌐 Web App Builder | 💡 Tech Explorer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rizvan337&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 ## 🚀 About Me

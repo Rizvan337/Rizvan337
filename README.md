@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm <span style="color:#0e75b6;">Muhammed Rizvan R S</span></h1>
-<h3 align="center"> MERN Stack Developer | 🌐 Web App Builder | 💡 Tech Explorer</h3>
+<h3 align="center"> MERN Stack Developer |  Web App Builder |  Tech Explorer</h3>
 
 ---
 

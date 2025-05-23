@@ -2,7 +2,6 @@
 <h3 align="center"> MERN Stack Developer |  Web App Builder |  Tech Explorer</h3>
 
 ---
-https://www.google.com/imgres?q=gif%20for%20coders&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Ff9%2Fb8%2F8d%2Ff9b88deeae101d6a8572063bb63c286e.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fideas%2Fcoding-gifs-aesthetic%2F896913177658%2F&docid=1ICAldzC8KR5cM&tbnid=YTw_TBjGpRziqM&vet=12ahUKEwj_yuPHurmNAxUXcWwGHbLqKjcQM3oFCIEBEAA..i&w=1400&h=788&hcb=2&ved=2ahUKEwj_yuPHurmNAxUXcWwGHbLqKjcQM3oFCIEBEAA
 ##  About Me
 
 - 🧠 Diving deep into **JavaScript, Node.js, Express, MongoDB, React**

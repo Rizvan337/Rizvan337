@@ -38,7 +38,7 @@
 
 ## 🤝 Let's Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/riswan-r-s/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/riswan-mern-developer/)
 - 📧 rizvanichu337@gmail.com
 
 ---

@@ -8,7 +8,7 @@
 I’m a **MERN stack developer** focused on building real-world full-stack web applications and improving through consistent practice.
 
 - 💻 JavaScript | React | Node.js | Express | MongoDB  
-- 🌍 Open-source contributor (freeCodeCamp)  
+- 🌍 Open-source contributor  
 - 🧪 Focused on clean, maintainable code and best practices  
 - 🚀 Actively learning modern workflows, testing, and deployment  
 

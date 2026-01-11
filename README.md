@@ -37,9 +37,6 @@ I’m a **MERN stack developer** focused on building real-world full-stack web a
 </div>
 
 ---
-## 🧩 Coding Practice
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/RIZVANRS/)
-
 ## 🤝 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/riswan-mern-developer/)

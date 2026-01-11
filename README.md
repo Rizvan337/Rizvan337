@@ -1,12 +1,16 @@
 <h1 align="center">Hey there! 👋 I'm <span style="color:#0e75b6;">Muhammed Rizvan R S</span></h1>
-<h3 align="center"> MERN Stack Developer |  Web App Builder |  Tech Explorer</h3>
+<h3 align="center">Aspiring MERN Stack Developer | Web App Builder | Open Source Learner</h3>
 
 ---
-##  About Me
 
-- 🧠 Diving deep into **JavaScript, Node.js, Express, MongoDB, React**
-- 🎯 Committed to improving every day
-- 💬 Always curious and open to learning something new
+## 👋 About Me
+
+I’m a **MERN stack developer** focused on building real-world full-stack web applications and improving through consistent practice.
+
+- 💻 JavaScript | React | Node.js | Express | MongoDB  
+- 🌍 Open-source contributor (freeCodeCamp)  
+- 🧪 Focused on clean, maintainable code and best practices  
+- 🚀 Actively learning modern workflows, testing, and deployment  
 
 ---
 
@@ -30,8 +34,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
-
 </div>
 
 ---
@@ -39,13 +41,14 @@
 ## 🤝 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/riswan-mern-developer/)
-- 📧 rizvanichu337@gmail.com
+- 📧 **rizvanichu337@gmail.com**
 
 ---
 
 ## 🧠 Quote I Live By
+
 > _"Your thoughts become things."_ — *The Secret*
 
 ---
 
-If you find something interesting here, don't forget to ⭐ a repo or connect with me!
+⭐ If you find something useful here, feel free to star a repo or connect with me!
